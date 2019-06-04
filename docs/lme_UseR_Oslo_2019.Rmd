@@ -87,7 +87,7 @@ class: dark, center, middle
 
 # Getting started
 
-Let's dig into it. We will be using a data set used by Garbiela K Hajduk in her introcution to LME [blogpost](https://gkhajduk.github.io/2017-03-09-mixed-models/). I did this workshop with the gapminder data before, but while it works nicely for running LME's, it has some properties making some highlighted advantages to using LME's difficult ro illustrate. You can download the data here: [http://gkhajduk.d.pr/9GPn/3nbbPoK](http://gkhajduk.d.pr/9GPn/3nbbPoK6)
+Let's dig into it. We will be using a data set used by Garbiela K Hajduk in her introcution to LME [blogpost](https://gkhajduk.github.io/2017-03-09-mixed-models/). I did this workshop with the gapminder data before, but while it works nicely for running LME's, it has some properties making some highlighted advantages to using LME's difficult ro illustrate. You can download the data here: [http://gkhajduk.d.pr/9GPn/3nbbPoK6](http://gkhajduk.d.pr/9GPn/3nbbPoK6)
 
 .pull-left[
 ```{r eval=F}
